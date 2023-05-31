@@ -1,3 +1,3 @@
-module github.com/hakansenn/dene/v2
+module github.com/hakansenn/dene
 
 go 1.20
